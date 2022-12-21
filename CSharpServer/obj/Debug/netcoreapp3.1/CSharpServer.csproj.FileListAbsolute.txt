@@ -1,0 +1,14 @@
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.csproj.AssemblyReference.cache
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.AssemblyInfoInputs.cache
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.AssemblyInfo.cs
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.csproj.CoreCompileInputs.cache
+C:\Users\Coyote\source\repos\Server\CSharpServer\bin\Debug\netcoreapp3.1\CSharpServer.exe
+C:\Users\Coyote\source\repos\Server\CSharpServer\bin\Debug\netcoreapp3.1\CSharpServer.deps.json
+C:\Users\Coyote\source\repos\Server\CSharpServer\bin\Debug\netcoreapp3.1\CSharpServer.runtimeconfig.json
+C:\Users\Coyote\source\repos\Server\CSharpServer\bin\Debug\netcoreapp3.1\CSharpServer.runtimeconfig.dev.json
+C:\Users\Coyote\source\repos\Server\CSharpServer\bin\Debug\netcoreapp3.1\CSharpServer.dll
+C:\Users\Coyote\source\repos\Server\CSharpServer\bin\Debug\netcoreapp3.1\CSharpServer.pdb
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.dll
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.pdb
+C:\Users\Coyote\source\repos\Server\CSharpServer\obj\Debug\netcoreapp3.1\CSharpServer.genruntimeconfig.cache
